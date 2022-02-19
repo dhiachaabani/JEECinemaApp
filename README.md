@@ -1,5 +1,5 @@
-# JEECinmaApp
-## Cinema reservation application:
+
+# Cinema reservation application:
 
 *  Java/JEE
 * WildFly
